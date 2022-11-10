@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I'm an undergraduate who major __EIE__(Electronic Information Engineering)
+- 🌱 I’m currently learning Marxism☭
+- 🔭 I’m currently working on PCB layout ⚛⚡🖥️ 
 <!--
 **AgainstWar/AgainstWar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
