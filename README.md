@@ -1,6 +1,10 @@
 ### Hi there 👋
-I'm an undergraduate who major __EIE__(Electronic Information Engineering)
-- 🔭 I’m currently working on PCB layout ⚛⚡🖥️ 
+My major is __EIE__(Electronic Information Engineering)
+- 🔭 I’m currently working on PCB layout ⚛⚡🖥️
+- 🌱 I’m currently learning Embedded programing
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=againstwar&count_private=true&show_icons=true&theme=dracula&locale=cn&hide_border=true)
+
 <!--
 **AgainstWar/AgainstWar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
